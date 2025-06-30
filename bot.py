@@ -38,7 +38,7 @@ if not RENDER_URL:
 logger.info(f"Host URL is {RENDER_URL}.")
 
 
-TARGET_USERNAME = "@the_username_you_set"
+TARGET_USERNAME = "@indiandalla1bot"
 
 
 # --- Bot Handlers ---
